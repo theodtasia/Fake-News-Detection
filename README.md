@@ -1,4 +1,4 @@
-# Fake News Detectione with Machine Learning Algorithms and Neural Network Models
+# Fake News Detection with Machine Learning Algorithms and Neural Network Models
 
 ## Description
 
